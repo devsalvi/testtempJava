@@ -1,0 +1,10 @@
+test/com/sbsass/config/ConfigEverythingTest.class
+com/sbsass/model/JsonData.class
+com/sbsass/resource/DatabaseManagementReource.class
+com/sbsass/resource/impl/RESTApplication.class
+com/sbsass/DAO/impl/InventoryDAOImpl$1.class
+com/sbsass/DAO/impl/InventoryDAOImpl.class
+com/sbsass/resource/impl/DatabaseManagementReourceImpl.class
+com/sbsass/model/DbCreateRequest.class
+com/sbsass/config/ConfigEverything.class
+com/sbsass/DAO/InventoryDAO.class
